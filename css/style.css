@@ -1,0 +1,45 @@
+/* HUG CSS Template 1.0 */
+/*====== General CSS ======*/
+body{
+	margin: 0;
+	padding: 0;
+	/*font-family: primary-font;*/
+}
+
+/* Embed Font */
+/*@font-face {
+	font-family: primary-font;
+	src: url(../fonts/fontName.ttf) format('truetype');
+}*/
+
+/* Typography */
+h1 {font-size: 48px;}
+h2 {font-size: 36px;}
+h3 {font-size: 28px;}
+h4 {font-size: 18px;}
+h5 {}
+
+blockquote {font-size: 25px;}
+p {font-size: 16px;}
+
+/* Defaults */
+.clearfix {display: block; clear: both;}
+.col-center {margin: auto; float: none;}
+.img-full img {width: 100%;}
+.alpha {padding-left: 0px;}
+.omega {padding-right: 0px;}
+.show-mobile {display: none;}
+.hide-mobile {display: block;}
+
+a:focus, a:hover {outline: none;}
+
+/*==== End of general CSS ====*/
+
+
+/*==================== Page wise CSS ===================*/
+/*======================================================*/
+
+
+
+/*==================== Plugins CSS ===================*/
+/*====================================================*/
